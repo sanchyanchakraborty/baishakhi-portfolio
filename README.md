@@ -11,7 +11,7 @@ A **modern multi-page portfolio website** built using **Next.js, React, TypeScri
 This project showcases professional information including **education, work experience, skills, achievements, and contact details** in a responsive and performance-optimized layout.
 
 🌐 **Live Website**
-https://www.something
+https://baishakhi-portfolio.vercel.app/
 
 ---
 
@@ -174,7 +174,7 @@ This project can be deployed on:
 Live deployment:
 
 ```
-https://www.something
+https://baishakhi-portfolio.vercel.app/
 ```
 
 ---
